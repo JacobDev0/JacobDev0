@@ -1,16 +1,21 @@
-### Hi there 👋
+## Jacob, To ja !
+#### Mam na imię Jakub i uczę się programować w języku Python, Html i Java Script. Pracuje nad grami, stronami,
+#### Java Script. Pracuje nad grami, stronami, aplikacjami na telefon i komputer. Prowadzę rónież
+#### projekt Universe i Universe Realm
 
-<!--
-**JacobDev0/JacobDev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+Jestem młodą osobą która chce się rozwijać i korzysta z nowoczesnej 
+technologii, zajmuje się tworzeniem aplikacji na telefony mobilne i
+stron internetowych. Moim głównym projektem jest Universe który łączy resztę
+projektów w jedność, pod projektami Universe jest Universe Realm 
+Czyli projekt zajmujący się wirtualnym światem. Oraz Universe Studio
+czyli projekt zajmujący się fotografią i pracami graficznymi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------
+
+**Kontakt email:**
+
+**Portfolio:**
+
+**Strona Bio:**
