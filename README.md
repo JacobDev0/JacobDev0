@@ -1,7 +1,7 @@
 ## Jacob, To ja !
-#### Mam na imię Jakub i uczę się programować w języku Python, Html i Java Script. Pracuje nad grami, stronami,
-#### Java Script. Pracuje nad grami, stronami, aplikacjami na telefon i komputer. Prowadzę rónież
-#### projekt Universe i Universe Realm
+#### Mam na imię Jakub i uczę się programować w języku Python, Html i Java Script. 
+
+#### Pracuje nad grami, stronami, aplikacjami na telefon i komputer.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
