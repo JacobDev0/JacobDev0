@@ -12,10 +12,4 @@ projektów w jedność, pod projektami Universe jest Universe Realm
 Czyli projekt zajmujący się wirtualnym światem. Oraz Universe Studio
 czyli projekt zajmujący się fotografią i pracami graficznymi.
 
----------------------------------------------------------------------------------------------------------------------------
-
-**Kontakt email:**
-
-**Portfolio:**
-
-**Strona Bio:**
+--------------------------------------------------------------------------------------------------------------------------
